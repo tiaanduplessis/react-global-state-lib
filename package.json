@@ -1,6 +1,6 @@
 {
   "name": "react-global-state-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Global state using Context & Hooks APIs",
   "main": "dist/react-global-state-lib.js",
   "umd:main": "dist/react-global-state-lib.umd.js",
